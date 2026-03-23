@@ -1,3 +1,5 @@
 Hello, Git! This is my first repo.
 This line is on my new branch!
 This line will be added via a Pull Request!
+This line is for the rebase demo!
+This commit will be cherry picked!
